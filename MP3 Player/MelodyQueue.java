@@ -6,7 +6,6 @@ public class MelodyQueue {
    private Node front;
    private Node back;
 
-//Add all of your methods to this class. DO NOT CHANGE ANY OTHER CLASSES!!!!
    public MelodyQueue(){
       front = null;
       back = null;
